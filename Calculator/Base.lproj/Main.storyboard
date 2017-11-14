@@ -167,8 +167,7 @@
                                     <color key="titleColor" red="1" green="0.43519405020000002" blue="0.94739264820000002" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 </state>
                                 <connections>
-                                    <action selector="getNum" destination="BYZ-38-t0r" eventType="touchUpInside" id="Xxj-tE-aU2"/>
-                                    <action selector="getNum:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Rea-uQ-tfF"/>
+                                    <action selector="getPoint:" destination="BYZ-38-t0r" eventType="touchUpInside" id="zWz-pK-Rzf"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4SZ-Oh-FuZ">
